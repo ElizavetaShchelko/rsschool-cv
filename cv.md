@@ -12,7 +12,8 @@
 ## About Myself
 --------------------------------------
 I'm 18 years old, now I'm studying at the University. I consider that my education won't give me possibility to become good specialist, so I'm trying to find my calling. My goal here is to gain knowledge in the field of front-end development.
-## Skills
+
+## Skills  
 ---------------------------------------
 * HTML
 * CSS
@@ -21,6 +22,7 @@ I'm 18 years old, now I'm studying at the University. I consider that my educati
 ## Work Experience
 ----------------------------------------
 > Still studying...
+
 ## Education and courses
 ---------------------------------------
  * **University** - Belarusian State Economic University ( major: advertising ) - 2023
@@ -37,7 +39,7 @@ I'm 18 years old, now I'm studying at the University. I consider that my educati
     }
     let result = MULTIPLY(1, 2);
     alert( result );
-
+   
 
 ## Languages
 ----------------------------------------------------
